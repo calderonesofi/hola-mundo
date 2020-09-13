@@ -2,3 +2,5 @@ body{background-color: cornsilk;}
 h1{font-size: 3rem;}
 h2{font-size: 2rem;}
 p{font-size: 1rem; font-style: italic; color: coral;}
+@media{min-width:768px}
+div h2 {font-size:18px;}
